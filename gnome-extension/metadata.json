@@ -1,0 +1,8 @@
+{
+  "uuid": "clax-rings@sxncti.github.com",
+  "name": "CLAX 5h Rings",
+  "description": "Mostra o limite restante de 5 horas das contas CLAX do Claude Code na barra superior.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/sxncti/clax",
+  "version": 1
+}

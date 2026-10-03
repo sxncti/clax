@@ -1,0 +1,7 @@
+.claude-accounts/
+.credentials.json
+.claude.json
+auth.json
+*.swp
+*~
+__pycache__/

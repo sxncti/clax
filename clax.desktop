@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=CLAX — Trocar conta do Claude Code
+Comment=Trocar a conta padrão do Claude Code pelo navegador
+Exec=env CLAX_LAUNCHER=1 clax
+Icon=system-switch-user
+Terminal=true
+Categories=Development;
+Keywords=CLAX;Claude;Claude Code;Anthropic;conta;login;logout;
+StartupNotify=false
